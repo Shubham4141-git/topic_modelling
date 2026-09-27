@@ -1,0 +1,14 @@
+# Local data and caches (rebuilt on the first run)
+data/
+cache/
+hf_cache/
+
+# Secrets
+.env
+
+# Python / Jupyter / OS clutter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

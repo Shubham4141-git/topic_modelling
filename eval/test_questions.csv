@@ -1,0 +1,11 @@
+qid,question,type,gold_doc_id
+q1,What reward did Microsoft offer for information about the Conficker virus author?,answerable,5c5a8bc667c46f3cb85feb0535d7eeac5d5ad747
+q2,What did the Chinese hackers claim to have accessed?,answerable,d587d18b5bbe6edec12ba28fab028e8feacebcbf
+q3,Which topics have the biggest gap between external demand and our internal coverage?,answerable,
+q4,What software did developers build to let the iPhone work on any phone network?,answerable,f0d93bdd383762936746b48f7e67ffe72cfb1ede
+q5,What incident triggered the classified cyberattack described by Deputy Defense Secretary William Lynn?,answerable,17662736c0b0056d18a33c078f04b64bc369ab0b
+q6,What is cyclist Floyd Landis accused of hacking?,answerable,6215e369628ef593c7022b497ea4f219f40aad0a
+q7,What does the "How old do I look" website do?,answerable,4eed9e12497734b4420aebd1ca8351caa096ae1b
+q8,What does the "Anatomy Lab" iPhone app let users do?,answerable,b69eedb05cf2556b1a450c6d017fcf1fff26ec97
+q9,What did NASA announce about its 2024 Artemis III moon landing crew?,unanswerable,
+q10,How much did OpenAI raise in its most recent funding round in 2025?,unanswerable,
